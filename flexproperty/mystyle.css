@@ -1,0 +1,28 @@
+#screen{
+    height: 100vh;
+    width: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+#out{
+    height: 600px;
+    width: 600px;
+    background-color:bisque;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border: 5px solid black;
+
+    
+}
+#in{
+    height: 200px;
+    width: 200px;
+    text-align: center;
+    background-color: honeydew;
+    border: 3px solid black;
+    
+}
+
